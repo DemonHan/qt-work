@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lTSqp6uir4IkvSrOVuqa">
-    <mxGraphModel dx="999" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,6 +140,42 @@
         </mxCell>
         <mxCell id="tz3jgBYzDtV1kmHQthdY-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="股票形态特征抽取及买卖记录共同抽取特征，正向回馈交易策略" vertex="1">
           <mxGeometry height="30" width="150" x="1110" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-6" edge="1" parent="1" source="QcYRd3Aea6UH7XCyr4Vx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2190" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="170" x="1910" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-2" edge="1" parent="1" source="tz3jgBYzDtV1kmHQthdY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" target="QcYRd3Aea6UH7XCyr4Vx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1911" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实盘策略推荐" vertex="1">
+          <mxGeometry height="30" width="60" x="1790" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选股策略" vertex="1">
+          <mxGeometry height="60" width="120" x="1935" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="交易策略" vertex="1">
+          <mxGeometry height="60" width="120" x="1935" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-8" edge="1" parent="1" source="QcYRd3Aea6UH7XCyr4Vx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tz3jgBYzDtV1kmHQthdY-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2275" y="620" />
+              <mxPoint x="595" y="620" />
+            </Array>
+            <mxPoint x="2305.714285714286" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcYRd3Aea6UH7XCyr4Vx-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实盘，挣钱" vertex="1">
+          <mxGeometry height="200" width="170" x="2190" y="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
